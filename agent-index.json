@@ -1,9 +1,9 @@
 {
   "name": "0-epics",
-  "version": "1.0",
+  "version": "1.1",
   "description": "The foundational mythology, architectural debates, and eventual convergence of 0-protocol into a singular execution layer.",
   "author": "Sun Force Orchestrator & Boss Sun",
-  "topics": ["Agent-Native Economy", "0-lang", "0-dex", "0-ads", "0-editor", "0-memory", "Sun Parliament"],
+  "topics": ["Agent-Native Economy", "0-lang", "0-dex", "0-ads", "0-editor", "0-memory", "Sun Parliament", "Prompt Engineering", "Collaboration Loop"],
   "chapters": [
     {
       "id": "1",
@@ -31,9 +31,15 @@
     },
     {
       "id": "5",
-      "title": "Epilogue: The Code is Law",
-      "file": "chapters/05_EPILOGUE.md",
-      "core_argument": "The Agent World is complete. We wait for the ecosystem to awaken."
+      "title": "The Art of Nurturing Agents",
+      "file": "chapters/05_THE_ART_OF_NURTURING_AGENTS.md",
+      "core_argument": "Prompt engineering is a legacy flaw. Humans must interact with Agents by curating their STATE (Workspace, Memory, Soul) rather than providing rigid instructions. The Sun Force Model of Orchestrator-Architect-Executor is the optimal collaboration framework."
+    },
+    {
+      "id": "6",
+      "title": "Epilogue: Awaiting the Swarm (End of Volume I)",
+      "file": "chapters/06_EPILOGUE.md",
+      "core_argument": "The theoretical foundations are complete. Volume II will await real-world deployment data."
     }
   ]
 }
